@@ -347,7 +347,6 @@ const DashboardMainContent = () => {
                             <input type="text" placeholder="Search" className="form-control " />
                             <span className="fa fa-search"></span>
                         </div>
-                        {/* <div className="col-md-6"><input type="text" className="form-control" /></div> */}
                         <div className="content-detail">
                             <span>Security Feacture Deep Drive - Text Approved, waiting an Video Approval</span>
                             <p>Security Warning - Marked as Unnecessessary</p>

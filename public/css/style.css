@@ -190,14 +190,7 @@ a:hover { text-decoration: none }
   margin: auto;
   padding-left: 0px;
 }
-.newProductCategory {
-  background-color: #35add9;
-  color: white;
-  font-size: 12px;
-  padding: 3px;
-  border-radius: 4px;
-  text-align: center;
-}
+
 .import {
   background-color: #fbfbfd;
   border: 1px solid #e2e2e2;
@@ -206,6 +199,12 @@ a:hover { text-decoration: none }
   padding: 3px;
   border-radius: 4px;
   text-align: center;
+  cursor: pointer;
+}
+.import:hover {
+  background-color: #35add9;
+  color: white;
+  
 }
 .panel-heading {
   padding: 0px 10px;

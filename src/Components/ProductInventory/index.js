@@ -19,7 +19,7 @@ class HomePage extends Component {
                                     </div>
                                 </div>
                                 <div className="col-md-2 col-sm-4 alignTopbarCol">
-                                    <div className="newProductCategory"><span className="fa fa-plus" />&nbsp;New Product Category</div>
+                                    <div className="import"><span className="fa fa-plus" />&nbsp;New Product Category</div>
                                 </div>
                                 <div className="col-md-2 col-sm-4 alignTopbarCol">
                                     <div className="import"><span className="fa fa-arrow-to-top" />&nbsp;&nbsp;Import from CSV</div>
